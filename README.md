@@ -23,3 +23,7 @@ The entire structure of the project is thoughtfully organized. It reflects best 
 From a technical perspective, this project strengthened my understanding of how to set up and test a browser extension from scratch, how different parts like popup scripts and background scripts communicate, and how to configure permissions for accessing browser features. The process also improved my debugging skills, especially while handling runtime errors and asynchronous events. This extension serves as a base template for future projects such as productivity tools, in-browser assistants, or personalized dashboard extensions.
 
 Overall, this task has been a great exercise in combining front-end development with browser-side scripting. It helped me bridge the gap between web development and browser tool creation. Whether you're a developer looking to explore Chrome extension development or a student working on browser-based projects, this kind of structure provides a solid foundation. I’m excited to continue expanding this extension by adding features like user authentication, theme switching, browser tab interaction, and local data storage. Stay tuned for more updates as I build upon this framework and develop more powerful, real-world Chrome tools
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e2953aa5-90d9-433e-a83a-83d99dc0ca98)
