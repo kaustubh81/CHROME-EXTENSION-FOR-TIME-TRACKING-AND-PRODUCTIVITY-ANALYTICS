@@ -26,4 +26,4 @@ Overall, this task has been a great exercise in combining front-end development 
 
 OUTPUT
 
-![Image](https://github.com/user-attachments/assets/e2953aa5-90d9-433e-a83a-83d99dc0ca98)
+
